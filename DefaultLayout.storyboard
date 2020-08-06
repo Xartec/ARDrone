@@ -115,7 +115,7 @@
                                     <action selector="modeSegmentControlChanged:" destination="Sk0-7A-pYA" eventType="valueChanged" id="21f-as-HoE"/>
                                 </connections>
                             </segmentedControl>
-                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1 m" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YYu-oq-t7Q">
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2 m" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YYu-oq-t7Q">
                                 <rect key="frame" x="413" y="329" width="44" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="ah1-wh-VFp"/>
